@@ -1,7 +1,6 @@
 
-# Heavenly Bites by Biswadeep
 
-Welcome to the Heavenly Bites by Biswadeep repository! This project is a MERN stack application for a bakery store, providing a delightful online experience to order your favorite baked goods.
+Welcome to the sweet shoop ! This project is a MERN stack application for a bakery store, providing a delightful online experience to order your favorite baked goods.
 ![image](https://github.com/biswadeep-roy/bakery-mern/assets/74821633/3c23cd55-8859-44d2-aa4c-7c136e1c1f61)
 
 
